@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531441004102",
+    "firebase_url": "https://cesieval.firebaseio.com",
+    "project_id": "cesieval",
+    "storage_bucket": "cesieval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531441004102:android:af1ed3c002385ad7",
+        "android_client_info": {
+          "package_name": "com.cesi.eval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531441004102-8g9u9fp2i57sq2d8pq13m4vok1tpj867.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cesi.eval",
+            "certificate_hash": "919888D52BCA079D340CCC42F0CF83EF0427DFA3"
+          }
+        },
+        {
+          "client_id": "531441004102-9drb0974dkleup9p649486mtrvb70m89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9N0EICoV5z991PBMh9SrRLas1wxcW9BM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531441004102-9drb0974dkleup9p649486mtrvb70m89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
